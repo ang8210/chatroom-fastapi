@@ -40,7 +40,7 @@ $ uvicorn main:app --reload
 
 ##  Demo
 
-![](.\demo.gif)
+![](demo.gif)
 
 
 
